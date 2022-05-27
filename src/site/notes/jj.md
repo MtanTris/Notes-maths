@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/jj/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":true}
+{"dg-home":true,"dg-publish":true,"permalink":"/jj/","tags":"gardenEntry","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 
