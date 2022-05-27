@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/m21/vrac/points-alignes/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-home":false,"dg-publish":true,"permalink":"/m21/vrac/points-alignes/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 
