@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/sans-titre/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-home":false,"dg-publish":true,"permalink":"/sans-titre/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 It's a bit of work to set this all up, but when you're done you'll have a digital garden in which you are in control of every part of it, and can customize it as you see fit. Which is what makes digital gardens so delightful.  
