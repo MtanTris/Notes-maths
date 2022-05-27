@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/m21/cours/chap1-geometrie-dans-le-plan-et-dans-l-espace/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/m21/cours/chap1-geometrie-dans-le-plan-et-dans-l-espace/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 
