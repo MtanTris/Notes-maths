@@ -1,15 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/jj/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-home":true,"dg-publish":true,"permalink":"/jj/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":true}
 ---
 
 
-
-##BITE*
-*
-pdckzùomv,ml;z
-
-zrùkz9ùvokùkkozv4
-36z4b67
-z
->cekjv
->s^dldl*
+ sdfdf df  dfouglvi
