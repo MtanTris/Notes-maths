@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/m21/vrac/application-lineaire-transformation-lineaire/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-home":false,"dg-publish":true,"permalink":"/m21/vrac/application-lineaire-transformation-lineaire/","dgHomeLink":false,"dgPassFrontmatter":true}
 ---
 
 
